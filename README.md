@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 🌱 I’m currently learning Java,Spring boot,Angular,Mysql<br><br>💬 Ask me about Java<br><br>📫 How to reach me s.d.y.anupama@gmail.com<br><br>⚡ Fun fact I think i am so Funny
 
@@ -22,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=Yashan97&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
