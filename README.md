@@ -1,4 +1,7 @@
 <div align="center">
+## 🎥 Tech Animation Preview
+![Binary Tech Animation](assets/D:\photo\binary_tech_animation.gif)
+
 
 # 💫 About Me:
 🌱 I’m currently learning Java,Spring boot,Angular,Mysql<br><br>💬 Ask me about Java<br><br>📫 How to reach me s.d.y.anupama@gmail.com<br><br>⚡ Fun fact I think i am so Funny
