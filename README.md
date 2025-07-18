@@ -1,6 +1,5 @@
 <div align="center">
-## 🎥 Tech Animation Preview
-![Binary Tech Animation](assets/binary_tech_animation.gif)
+
 
 
 # 💫 About Me:
